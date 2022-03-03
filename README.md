@@ -17,6 +17,7 @@ You can check out the notebook [here](https://nbviewer.org/github/965311532/back
 
 ## Screenshots
 These are some example screenshots from the analysis:
+
 ![Cumulative Result Example](data/cumres-eg.png)
 ![Drawdown Example](data/dd-eg.png)
 ![Streak Distribution Example](data/streak-dist.png)
