@@ -130,3 +130,6 @@ dmypy.json
 
 # Contains sensitive data
 csv/
+
+# Private
+utils.py
